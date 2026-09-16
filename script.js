@@ -22,25 +22,25 @@ const cases = [
         type: "dino",
         title: "Fase 2: Protocolo de Salto Digital (Esquiva los objetos)",
         story: "Esquiva los obstáculos usando la <strong>barra espaciadora</strong> o haciendo clic.<br> - Bombas = 1 punto<br> - Torta = 2 puntos<br> Alcanza <strong>30 puntos</strong> para superar la fase.",
-        reward: "<p>¡Reflejos calibrados con éxito! El sistema está listo para la fiesta.</p> <p><strong>Pista del Regalo #2:</strong> El siguiente objeto está guardado donde guardas tus prendas favoritas.</p>"
+        reward: "<p>¡Reflejos calibrados con éxito! El sistema está listo para la fiesta.</p> <p><strong>Pista del Regalo #2:</strong> El agente encargado de entregarte este paquete duerme contigo todas las noches.</p>"
     },
     {
         type: "hangman",
         title: "Fase 3: Protocolo de Descifrado (Descifrar Frase)",
         story: "Descifra la frase secreta de cumpleaños seleccionando las letras correctas en el teclado virtual. Tienes un límite de 3 errores antes de que se active la alerta.",
-        reward: "<p>¡Frase descifrada con éxito!</p> <p><strong>Pista del Regalo #3:</strong> El sistema indica que este paquete se encuentra con la comida de uno de nuestros agentes."
+        reward: "<p>¡Frase descifrada con éxito!</p> <p><strong>Pista del Regalo #3:</strong> El siguiente regalo lo guardó un agente bajo su cama. Tu relación con este agente es complicada."
     },
     {
         type: "pacman",
         title: "Fase 4: Laberinto (Dog-Man)",
         story: "Usa las <strong>flechas del teclado</strong> para moverte y recolectar todos los puntos. ¡Busca las fichas especiales de energía para eliminar el 10% de los puntos restantes! Si te atrapan, reaparecerá el <strong>50% de los puntos</strong>.",
-        reward: "<p>¡Laberinto superado! Estás más cerca de la evidencia final.</p> <p><strong>Pista del Regalo #4:</strong> Este artículo está en un lugar donde siempre huele a jabón y agua corriendo.</p>"
+        reward: "<p>¡Laberinto superado! Estás más cerca de la evidencia final.</p> <p><strong>Pista del Regalo #4:</strong> Este artículo está en un lugar muy oscuro, pero guarda todo lo que necesitas para tu camino.</p>"
     },
     {
         type: "wordsearch",
         title: "Fase 5: Matriz de Cripto-Análisis (Sopa de letras)",
         story: "Extrae las 12 palabras clave de la matriz. <br><br><strong>Instrucción:</strong> Haz clic en las letras en orden. Las activas se pondrán <strong>Rojas</strong> y al completar una palabra se quedarán <strong>Verdes</strong>.",
-        reward: "<p>¡Matriz descifrada! Estás a un paso de la evidencia final.</p> <p><strong>Pista del Regalo #5:</strong> El agente encargado de entregarte este paquete duerme contigo todas las noches.</p>"
+        reward: "<p>¡Matriz descifrada! Estás a un paso de la evidencia final.</p> <p><strong>Pista del Regalo #5:</strong> El siguiente objeto está guardado donde guardas tus prendas favoritas.</p>"
     },
     {
         type: "puzzle",
